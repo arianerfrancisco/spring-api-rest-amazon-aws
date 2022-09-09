@@ -1,0 +1,8 @@
+br\medium\mobicare\pizzaweb\entity\PizzaEntity.class
+br\medium\mobicare\pizzaweb\configuration\PizzawebConfiguration.class
+br\medium\mobicare\pizzaweb\controller\PIzzaController.class
+br\medium\mobicare\pizzaweb\PizzawebApplication.class
+br\medium\mobicare\pizzaweb\dto\PizzaDTO.class
+br\medium\mobicare\pizzaweb\repository\FakeDatabase.class
+br\medium\mobicare\pizzaweb\service\PizzaService.class
+br\medium\mobicare\pizzaweb\repository\PizzaRepository.class

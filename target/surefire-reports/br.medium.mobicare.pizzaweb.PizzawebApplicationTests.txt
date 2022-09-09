@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.medium.mobicare.pizzaweb.PizzawebApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.607 s - in br.medium.mobicare.pizzaweb.PizzawebApplicationTests
