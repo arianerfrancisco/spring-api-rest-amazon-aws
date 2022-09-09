@@ -1,12 +1,13 @@
-package com.algaworks.contato;
+package br.medium.mobicare.pizzaweb;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ContatoApiApplication {
+public class PizzawebApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(ContatoApiApplication.class, args);
+		SpringApplication.run(PizzawebApplication.class, args);
 	}
+
 }
